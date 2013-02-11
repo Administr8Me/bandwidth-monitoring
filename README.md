@@ -11,3 +11,14 @@ Requirements:
 - postfix (send alers)
 - screen (the script is running in a screen)
 - vnstat (is used to check the bandwidth)
+
+Installing dependencies:
+------------------------
+
+Ubuntu / Debian Distro:
+
+apt-get install postfix vnstat screen
+
+CentOS / RedHat / Fedora & Co
+
+yum install -y postfix vnstat screen
